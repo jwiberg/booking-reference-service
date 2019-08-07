@@ -1,0 +1,25 @@
+{
+  "name": "booking-reference-service",
+  "version": "1.0.0",
+  "description": "Booking reference service for Kata: Train Reservation (https://github.com/emilybache/KataTrainReservation)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwiberg/booking-reference-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwiberg/booking-reference-service/issues"
+  },
+  "homepage": "https://github.com/jwiberg/booking-reference-service#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "standard": "^13.1.0"
+  }
+}
